@@ -1,0 +1,1 @@
+C:\UDK\UDK-2014-08\Binaries\Win32\UDK.exe PlatformerTest2?GoalScore=0?TimeLimit=0?Game=StarterPlatformGame.SPG_GameInfo -log
